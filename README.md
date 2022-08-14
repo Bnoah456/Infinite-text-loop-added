@@ -1,2 +1,2 @@
-# Brother's-photography-page
+# My portfolio page
  Website I made for my twin brother!

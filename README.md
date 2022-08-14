@@ -1,2 +1,3 @@
 # My portfolio page
- Website I made for my twin brother!
+ Website I made all by myself!
+ 
